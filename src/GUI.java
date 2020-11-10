@@ -74,7 +74,6 @@ public class GUI {
         gui.fileTypes.setPrototypeDisplayValue(".webm");
         for (String item : fileFormats)
             gui.fileTypes.addItem(item);
-
     }
 
 }
